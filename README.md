@@ -56,6 +56,6 @@ Contribute to open-source projects and collaborate with the developer community.
 
 Email: barathkirupakaran2006@gmail.com
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/barath-kirupakaran-a74aa4325/
 
 GitHub: @Barathkirupakaran
