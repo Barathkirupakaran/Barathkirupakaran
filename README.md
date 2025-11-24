@@ -2,7 +2,7 @@
 
 💻 About Me
 
-🎓 First-Year Student at SRM Institute of Science and Technology
+🎓 Second-Year Student at SRM Institute of Science and Technology
 
 📚 Course: Computer Science and Engineering (Big Data Analytics)
 
