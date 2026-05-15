@@ -64,7 +64,7 @@ Vyapari Mitra is designed to help small business owners manage their daily opera
 
 **Tech & Design**: UI/UX Design · App Development · Small Business Tools
 
-🔗 *[Coming soon / View on GitHub]*
+🔗 (https://dbmsproject-eo79sqdky-cutepanda20006-3399s-projects.vercel.app/)
 
 ---
 
